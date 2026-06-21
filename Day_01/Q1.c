@@ -1,8 +1,9 @@
+
 #include <stdio.h>
 
 int main() {
     int n, sum = 0;
-
+ 
     printf("Enter the value of N: ");
     scanf("%d", &n);
 
